@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299172954150",
+    "project_id": "yarnme-903d3",
+    "storage_bucket": "yarnme-903d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299172954150:android:210754f276e20a6d0726e7",
+        "android_client_info": {
+          "package_name": "com.khid.yarn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299172954150-tgcej6f1rg3nav1spojagpr3fjrt43af.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkS_T4bJRpGxhaYiUPv9Ifx36iA8E9OIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299172954150-tgcej6f1rg3nav1spojagpr3fjrt43af.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
