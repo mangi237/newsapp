@@ -15,10 +15,10 @@ import 'pages/search.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
 void main() async {
-  // WidgetsFlutterBinding.ensureInitialized();
-  // await Firebase.initializeApp(
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp(
   //   // options: DefaultFirebase.a
-  // );
+  );
   runApp(const MyMainPage());
 }
 

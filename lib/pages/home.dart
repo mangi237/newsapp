@@ -19,7 +19,7 @@ class MyHomePage extends StatefulWidget {
     /*required this.index*/
   }) : super(key: key);
   // final int index;
-// final currentUser = FirebaseAuth.instance.currentUser;
+final currentUser = FirebaseAuth.instance.currentUser;
   @override
   State<MyHomePage> createState() => _MyHomePageState();
 }
